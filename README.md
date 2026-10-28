@@ -1,4 +1,4 @@
-This assignment involves using OpenGL to create a simple Sun-Earth-Moon systemm
+This assignment involves using OpenGL to create a simple 3D solar systemm
 whereby they revovle around each other at different speed and angles. Each planet will have its own texture. The lighting effects are implemented using the Phong Model.
 
 ## Moving Light source
